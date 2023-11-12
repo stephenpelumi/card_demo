@@ -30,7 +30,9 @@
   position: absolute;
   backface-visibility: hidden;
 }
-
+.card-back{
+  border: 5px black solid;
+}
 .card-back {
   transform: rotateY(-180deg); 
 }
